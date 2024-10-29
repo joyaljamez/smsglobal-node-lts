@@ -1,6 +1,6 @@
 {
   "name": "@jxdevroot/smsglobal",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "SDK for SMSGlobal rest api",
   "homepage": "https://github.com/smsglobal/smsglobal-node#readme",
   "bugs": {
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smsglobal/smsglobal-node.git"
+    "url": "git+https://github.com/joyaljamez/smsglobal-node-lts"
   },
   "author": "Surinder Pal Singh <surinderpal.singh@smsglobal.com>",
   "main": "./lib",

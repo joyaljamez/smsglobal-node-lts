@@ -7,6 +7,8 @@
 [![npm](https://img.shields.io/npm/v/smsglobal)](https://www.npmjs.com/package/smsglobal)
 [![Downloads](https://img.shields.io/npm/dm/smsglobal.svg)](https://www.npmjs.com/package/smsglobal)
 
+THIS IS A CUSTOM FORK OF THE ORIGINAL REPO. THE ORIGINAL REPO IS LOCATED AT [link](https://www.npmjs.com/package/smsglobal)
+THIS LIBRARY USES LATEST VERSION OF AXIOS TO RESOLVE SECURITY VULNERABILITIES
 
 The SMSGlobal Node library provides convenient access to the SMSGlobal REST API from node applications.
 
